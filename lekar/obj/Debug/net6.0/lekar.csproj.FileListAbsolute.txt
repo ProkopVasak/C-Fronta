@@ -1,0 +1,15 @@
+C:\Users\Mizej\source\repos\lekar\lekar\bin\Debug\net6.0\lekar.exe
+C:\Users\Mizej\source\repos\lekar\lekar\bin\Debug\net6.0\lekar.deps.json
+C:\Users\Mizej\source\repos\lekar\lekar\bin\Debug\net6.0\lekar.runtimeconfig.json
+C:\Users\Mizej\source\repos\lekar\lekar\bin\Debug\net6.0\lekar.dll
+C:\Users\Mizej\source\repos\lekar\lekar\bin\Debug\net6.0\lekar.pdb
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\lekar.csproj.AssemblyReference.cache
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\lekar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\lekar.AssemblyInfoInputs.cache
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\lekar.AssemblyInfo.cs
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\lekar.csproj.CoreCompileInputs.cache
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\lekar.dll
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\refint\lekar.dll
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\lekar.pdb
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\lekar.genruntimeconfig.cache
+C:\Users\Mizej\source\repos\lekar\lekar\obj\Debug\net6.0\ref\lekar.dll
